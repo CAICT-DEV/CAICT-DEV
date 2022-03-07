@@ -1,4 +1,4 @@
-### Hi there 👋
+All the repositories were transferred to https://github.com/orgs/caict-4iot-dev/repositories.
 
 <!--
 **CAICT-DEV/CAICT-DEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
